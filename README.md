@@ -1,5 +1,5 @@
 # retailpulse-analytics-
-End-to-end Retail Analytics Platform using Python, PostgreSQL, ETL pipelines and Business Intelligence.
+End-to-end Retail Analytics Platform using Python, MySQL, ETL pipelines and Business Intelligence.
 
 
 
