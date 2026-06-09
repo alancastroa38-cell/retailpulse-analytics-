@@ -1,0 +1,24 @@
+RetailPulse/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── sql/
+│   ├── schema.sql
+│   └── queries/
+│
+├── src/
+│   ├── generators/
+│   ├── extract/
+│   ├── transform/
+│   └── load/
+│
+├── notebooks/
+│
+├── docs/
+│
+├── requirements.txt
+├── .env
+├── README.md
+└── main.py
